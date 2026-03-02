@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-Testing tEsting
+This is a resume
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
