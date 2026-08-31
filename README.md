@@ -1,7 +1,9 @@
 ## This is a resume 👋
 
 Name: Gabriela
+
 Major: Computer Science
+
 Graduation: 2029
 
 Mostly do Python and Java. Currently working on GameDev and AI.
