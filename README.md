@@ -6,7 +6,7 @@ Major: Computer Science
 
 Graduation: 2029
 
-Mostly do Python and Java. Currently working on GameDev and AI.
+Mostly do Python and Java. Currently working on GameDev and AI. Graphic designer, artist and writer on the side.
 
 <!--
 **TheLeaderKing/TheLeaderKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
